@@ -1,0 +1,18 @@
+
+# IntelliJ
+.idea/
+*.iml
+
+# Java / Maven
+**/target/
+*.class
+
+# Logs
+*.log
+
+# React / Node.js
+node_modules/
+dist/
+
+# Windows
+Thumbs.db
